@@ -77,6 +77,7 @@ The accumulator pattern involves four steps:
 1. Determine your output data type and default value.
 1. Define your loop.
 1. Accumulate!
+1. Return the accumulated data
 
 #### Determine your output data type
 
